@@ -1,0 +1,23 @@
+@import "./components/Header/Header.css";
+@import "./components/Cards/Cards.css";
+@import "./components/Filters/Filters.css";
+@import "./components/Footer/Footer.css";
+@import "./components/Filters/Filters.css";
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0 auto;
+}
+
+div .footer-container {
+  width: 100%;
+}
+
+div .top-header {
+  max-width: 100%;
+}
+
+body {
+  display: flex;
+}
